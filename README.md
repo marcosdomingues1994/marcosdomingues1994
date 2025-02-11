@@ -15,10 +15,16 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>🎓 Certifications</h2>
+
+- [Intermediate SQL](https://media.licdn.com/dms/image/v2/D4D2DAQFcnwLe_7oE1w/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1734446874850?e=1739898000&v=beta&t=-77Q6iOLj5F2zLuDcBB8mQuzwil0DU8OrG1Ep83p6FE)
+- [MTA: Introduction to Programming Using Python](https://media.licdn.com/dms/image/v2/D4D2DAQGLKYCh_B5l5w/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1733131903675?e=1739898000&v=beta&t=bYCiVAEXRhFvizrTUj1FP16vj0O2s4yzyoqdRO865Co)
+- [Programming and Communication](https://certificados.descomplica.com.br/graduacao/6896f558a203bd4a0fc26f4fe3634770c0d399fa223ebb939bc7cb4acaaee29a)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Working with data using Pandas](https://www.youtube.com/watch?v=a83ASGn_V_](https://www.youtube.com/watch?v=vmEHCJofslg)
-- 
+  
 
 <h2> 🤳 Connect with me:</h2>
 
