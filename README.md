@@ -23,7 +23,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Working with data using Pandas](https://www.youtube.com/watch?v=a83ASGn_V_](https://www.youtube.com/watch?v=vmEHCJofslg)
+- [Working with data using Pandas](https://www.youtube.com/watch?v=vmEHCJofslg)
   
 
 <h2> 🤳 Connect with me:</h2>
