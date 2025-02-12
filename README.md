@@ -1,5 +1,5 @@
 <h1>Hi, I'm Marcos! <br/></h1>
-<h2> I'm an <a href="https://github.com/marcosdomingues1994">Aspiring programmer</a><br/> currently working as a <a href="https://www.linkedin.com/in/marcos-domingues-651253137/">L&D Professional</a><br/></h2><
+<h2> I'm an <a href="https://github.com/marcosdomingues1994">Aspiring programmer</a> currently working as a <a href="https://www.linkedin.com/in/marcos-domingues-651253137/">L&D Professional</a></h2><
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
