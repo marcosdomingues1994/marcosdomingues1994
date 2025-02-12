@@ -1,9 +1,10 @@
-<h1>Hi, I'm Marcos! <br/><a href="https://github.com/marcosdomingues1994">Aspiring programmer</a><br/> <a href="https://www.linkedin.com/in/marcos-domingues-651253137/">L&D Professional</a><br/>
+<h1>Hi, I'm Marcos! <br/></h1>
+<h2> I'm an <a href="https://github.com/marcosdomingues1994">Aspiring programmer</a><br/> currently working as a <a href="https://www.linkedin.com/in/marcos-domingues-651253137/">L&D Professional</a><br/></h2><
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [The Oracle - RPG Character Selection Chatbot][https://github.com/marcosdomingues1994/RPG_Class_Chatbot]
+  - [The Oracle - RPG Character Selection Chatbot] [https://github.com/marcosdomingues1994/RPG_Class_Chatbot]
     
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
