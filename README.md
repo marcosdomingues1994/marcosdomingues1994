@@ -7,7 +7,7 @@
   - [The Oracle - RPG Character Selection Chatbot] [https://github.com/marcosdomingues1994/RPG_Class_Chatbot] ✅
     
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Atmosfera - Aplicação climática em React integrada com API] [] 🔨
+  - [Atmosfera - Aplicação climática em React integrada com API] [https://github.com/marcosdomingues1994/Atmosfera-React-API] 🔨
 
 - <b>SQL</b>
 
