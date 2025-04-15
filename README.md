@@ -5,10 +5,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>ContatoWeb - Formulário Web com Validação, CSV e Deduplicação de Contatos</b>  
-  - [Acesse o projeto aqui](https://github.com/marcosdomingues1994/ContatoWeb) 📨  
-  - Formulário em PHP integrado com Python para armazenamento de mailing, eliminação de duplicatas e visualização via painel admin.  
-  - Tecnologias: PHP, Python, HTML, CSS, CSV, Regex (em progresso) ✅  
+- <b>ContatoWeb - Formulário Web com Validação, CSV e Deduplicação de Contatos</b>  🔨 
 
 - <b>Data Structures and Algorithms Practice</b>  
   - [The Oracle - RPG Character Selection Chatbot](https://github.com/marcosdomingues1994/RPG_Class_Chatbot) ✅  
