@@ -1,17 +1,28 @@
 <h1>Hi, I'm Marcos! <br/></h1>
-<h2> I'm an <a href="https://github.com/marcosdomingues1994">Aspiring programmer</a> currently working as a <a href="https://www.linkedin.com/in/marcos-domingues-651253137/">L&D Professional</a></h2>
+<h2> I'm an <a href="https://github.com/marcosdomingues1994">Backend & Automation Developer </a> currently working as a <a href="https://www.linkedin.com/in/marcos-domingues-651253137/">IT Support Analyst</a></h2>
+
+---
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice</b>
-  - [The Oracle - RPG Character Selection Chatbot] [https://github.com/marcosdomingues1994/RPG_Class_Chatbot] ✅
-    
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Atmosfera - Aplicação climática em React integrada com API] [https://github.com/marcosdomingues1994/Atmosfera-React-API] 🔨
+- <b>ContatoWeb - Formulário Web com Validação, CSV e Deduplicação de Contatos</b>  
+  - [Acesse o projeto aqui](https://github.com/marcosdomingues1994/ContatoWeb) 📨  
+  - Formulário em PHP integrado com Python para armazenamento de mailing, eliminação de duplicatas e visualização via painel admin.  
+  - Tecnologias: PHP, Python, HTML, CSS, CSV, Regex (em progresso) ✅  
 
-- <b>SQL</b>
+- <b>Data Structures and Algorithms Practice</b>  
+  - [The Oracle - RPG Character Selection Chatbot](https://github.com/marcosdomingues1994/RPG_Class_Chatbot) ✅  
 
-- <b>Python</b>
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>  
+  - [Atmosfera - Aplicação climática em React integrada com API](https://github.com/marcosdomingues1994/Atmosfera-React-API) 🔨  
+
+- <b>SQL</b>  
+  -  
+
+- <b>Python</b>  
+  - 
+
+---
 
 <h2>🎓 Certifications</h2>
 
@@ -19,15 +30,18 @@
 - [MTA: Introduction to Programming Using Python](https://media.licdn.com/dms/image/v2/D4D2DAQGLKYCh_B5l5w/profile-treasury-document-cover-images_480/profile-treasury-document-cover-images_480/0/1733131903675?e=1739898000&v=beta&t=bYCiVAEXRhFvizrTUj1FP16vj0O2s4yzyoqdRO865Co)
 - [Programming and Communication](https://certificados.descomplica.com.br/graduacao/6896f558a203bd4a0fc26f4fe3634770c0d399fa223ebb939bc7cb4acaaee29a)
 
+---
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Working with data using Pandas](https://www.youtube.com/watch?v=vmEHCJofslg)
-  
+
+---
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="marcosdomingues1994 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="marcosdomingues1994 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 [<img align="left" alt="marcosdomingues1994 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[linkedin]: https://www.linkedin.com/in/marcos-domingues-651253137/  
 [instagram]: https://www.instagram.com/mdomingues30/
-[linkedin]: https://www.linkedin.com/in/marcos-domingues-651253137/
