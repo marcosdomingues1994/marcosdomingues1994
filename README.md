@@ -3,16 +3,15 @@
 
 ---
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>ContatoWeb - Formulário Web com Validação, CSV e Deduplicação de Contatos</b>  🔨 
+<h2>👨‍💻 Software Development Projects:</h2> 
 
 - <b>Data Structures and Algorithms Practice</b>  
   - [The Oracle - RPG Character Selection Chatbot](https://github.com/marcosdomingues1994/RPG_Class_Chatbot) ✅  
 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>  
+- <b>Full Stack Web App (React, NodeJS, Azure, Python, PHP and Machine Learning Components)</b>  
   - [Atmosfera - Aplicação climática em React integrada com API](https://github.com/marcosdomingues1994/Atmosfera-React-API) 🔨  
-
+  - [ContatoWeb - Formulário Web com Validação, CSV e Deduplicação de Contatos](https://github.com/marcosdomingues1994/ContatoWeb). 🔨
+  
 - <b>SQL</b>  
   -  
 
