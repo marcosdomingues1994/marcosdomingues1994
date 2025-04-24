@@ -15,9 +15,6 @@
 - <b>SQL</b>  
   -  
 
-- <b>Python</b>  
-  - 
-
 ---
 
 <h2>🎓 Certifications</h2>
